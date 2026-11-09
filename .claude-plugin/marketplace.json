@@ -1,0 +1,5 @@
+{
+  "name": "claude-changes-notes",
+  "owner": { "name": "s-d-le" },
+  "plugins": [{ "name": "changes-notes", "source": "./" }]
+}
