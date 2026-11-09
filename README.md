@@ -5,6 +5,8 @@ files changed in this session, with added (`A`) or modified (`M`) and +/− line
 bottom half is a plain text area for jotting things down: click it, type, and Enter adds a new
 line. Nothing in the notes is saved; they last while the pane is open.
 
+<img src="screenshot.png" alt="The Changes & notes pane: one changed file on top, notes below" width="360">
+
 The pane opens when a session starts (docked on the right in fullscreen on a wide terminal).
 Type `/notes` to open it at any width.
 
